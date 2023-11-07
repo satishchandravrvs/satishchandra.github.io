@@ -253,10 +253,10 @@ header.sticky{
     margin-bottom: 10px;
 }
 
-/* Style list items within .box */
+
 .box ul {
-    list-style-type: disc; /* Add bullet points */
-    padding-left: 20px; /* Adjust spacing for the bullet points */
+    list-style-type: disc; 
+    padding-left: 20px; 
 }
 
 .box ul li {
