@@ -188,6 +188,10 @@ header.sticky{
 	border:7px solid var(--main-color);
 	box-shadow: 0 0 20px var(--main-color);
 }
+.about-img:hover{
+	color: var(--main-color);
+	text-shadow: 3px 3px 20px var(--main-color), -2px 1px 30px var(--text-color);
+}
 .about-text h2{
 	font-size: var(--h2-font);
 	line-height: 1.3;
